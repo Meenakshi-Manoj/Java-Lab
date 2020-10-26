@@ -5,7 +5,7 @@ public class Prime {
 	public static void main(String[] args) {
 		int n,i;
 		int f=0;
-		System.out.println("enter the numbers : ");
+		System.out.println("enter the number : ");
 		Scanner sc = new Scanner (System.in);
 		n=sc.nextInt();
 		for(i=1;i<=n;i++)
@@ -20,3 +20,12 @@ public class Prime {
 	}
 
 }
+OUTPUT
+
+enter the number : 
+17
+number is prime
+
+enter the number : 
+45
+number is not prime
