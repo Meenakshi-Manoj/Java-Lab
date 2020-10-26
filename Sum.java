@@ -6,7 +6,7 @@ public class Sum {
 		System.out.println("enter the number : ");
 		Scanner sc=new Scanner(System.in);
 		n=sc.nextInt();
-		for(i=0;i<n;i++)
+		for(i=1;i<=n;i++)
 		{
 			s=s+i;
 		}
@@ -14,3 +14,7 @@ public class Sum {
 	}
 
 }
+OUTPUT
+enter the number : 
+20
+sum of the number is 210
