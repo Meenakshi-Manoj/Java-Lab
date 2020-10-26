@@ -18,3 +18,17 @@ public class Fibo {
 	}
 
 }
+OUTPUT
+enter the number : 
+10
+fibonacci of the number : 
+0 
+1 
+1 
+2 
+3 
+5 
+8 
+13 
+21 
+34 
