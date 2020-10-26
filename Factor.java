@@ -16,3 +16,12 @@ public class Factor {
 	}
 
 }
+OUTPUT
+enter the number : 
+6
+factors of the number is: 6
+1   
+2   
+3   
+6   
+	
