@@ -14,3 +14,8 @@ public class Add {
 	}
 
 }
+OUTPUT
+Enter two numbers : 
+45
+25
+sum is : 70
