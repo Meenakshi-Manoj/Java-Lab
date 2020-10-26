@@ -25,3 +25,10 @@ public class Palindrome {
 	}
 
 }
+OUTPUT
+enter the number: 
+1001
+it is palindrome
+enter the number: 
+5621
+it is not palindrome
