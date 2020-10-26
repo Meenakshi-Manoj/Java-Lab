@@ -25,3 +25,10 @@ public class Armstong {
 	}
 
 }
+OUTPUT
+enter the number:
+371
+the given number is armstrong
+enter the number:
+141
+the given number is not armstrong
