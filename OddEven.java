@@ -18,3 +18,14 @@ public class OddEven {
 	}
 
 }
+
+OUTPUT
+enter the number : 
+5
+number is odd
+
+enter the number : 
+8
+number is even
+
+
